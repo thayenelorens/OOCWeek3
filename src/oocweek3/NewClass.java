@@ -12,7 +12,8 @@ package oocweek3;
 public class NewClass {
     
     public NewClass(){
-        System.out.println("This is a new class");
+       
+        System.out.println("improved version of new class");
     }
     
 }

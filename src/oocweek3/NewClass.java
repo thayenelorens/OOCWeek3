@@ -14,6 +14,11 @@ public class NewClass {
     public NewClass(){
        
         System.out.println("improved version of new class");
+        
+        System.out.println("TEST");
+        System.out.println("TEST");
+        System.out.println("TEST");
+        
     }
     
 }

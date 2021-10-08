@@ -9,15 +9,10 @@ package oocweek3;
  *
  * @author Thay
  */
-public class OOCWeek3 {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        
-        System.out.println("Test");
-        System.out.println("This is my second commit");
+public class NewClass {
+    
+    public NewClass(){
+        System.out.println("This is a new class");
     }
     
 }

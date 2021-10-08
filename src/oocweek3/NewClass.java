@@ -21,6 +21,8 @@ public class NewClass {
         
         System.out.println("TESTING");
         
+        System.out.println("New commit");
+        
     }
     
 }

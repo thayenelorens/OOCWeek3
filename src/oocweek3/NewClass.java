@@ -17,7 +17,8 @@ public class NewClass {
         
         System.out.println("TEST");
         System.out.println("TEST");
-        System.out.println("TEST");
+        
+        System.out.println("TESTING");
         
     }
     
